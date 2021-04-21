@@ -1,3 +1,6 @@
+Projeto desenvolvido com base no curso React: Entendendo como a biblioteca funciona, da Alura. 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
