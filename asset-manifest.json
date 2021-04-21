@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/GeradorLembretes/static/css/main.515063d1.chunk.css",
+    "main.js": "/GeradorLembretes/static/js/main.cd974983.chunk.js",
+    "main.js.map": "/GeradorLembretes/static/js/main.cd974983.chunk.js.map",
+    "runtime-main.js": "/GeradorLembretes/static/js/runtime-main.2b723f6f.js",
+    "runtime-main.js.map": "/GeradorLembretes/static/js/runtime-main.2b723f6f.js.map",
+    "static/js/2.9ebb8abb.chunk.js": "/GeradorLembretes/static/js/2.9ebb8abb.chunk.js",
+    "static/js/2.9ebb8abb.chunk.js.map": "/GeradorLembretes/static/js/2.9ebb8abb.chunk.js.map",
+    "index.html": "/GeradorLembretes/index.html",
+    "static/css/main.515063d1.chunk.css.map": "/GeradorLembretes/static/css/main.515063d1.chunk.css.map",
+    "static/js/2.9ebb8abb.chunk.js.LICENSE.txt": "/GeradorLembretes/static/js/2.9ebb8abb.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b723f6f.js",
+    "static/js/2.9ebb8abb.chunk.js",
+    "static/css/main.515063d1.chunk.css",
+    "static/js/main.cd974983.chunk.js"
+  ]
+}
