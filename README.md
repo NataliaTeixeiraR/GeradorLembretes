@@ -1,4 +1,4 @@
-Projeto desenvolvido com base no curso React: Entendendo como a biblioteca funciona, da Alura. 
+Projeto desenvolvido com base no curso React: Entendendo como a biblioteca funciona, da Alura. Pode ser visualizado por meio do link: https://nataliateixeirar.github.io/GeradorLembretes/
 
 
 # Getting Started with Create React App
